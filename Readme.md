@@ -43,3 +43,4 @@ The code is very legacy now. Contributions are welcome as long as they are teste
 ## License
 
 Shinso.rb is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
